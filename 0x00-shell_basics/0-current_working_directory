@@ -1,7 +1,0 @@
-#!/bin/bash
-<<<<<<< HEAD
-#echo $(pwd)
-#
-=======
-echo $(pwd)
->>>>>>> a3f8d6b0e2f1446624ea74b6447d3e4fd06906f3
